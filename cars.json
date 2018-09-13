@@ -1,0 +1,25 @@
+{
+  "cars": [
+    {
+      "name": "qwe",
+      "date": "13.09.18",
+      "model": "rty",
+      "isSold": false,
+      "id": 7
+    },
+    {
+      "name": "вв",
+      "date": "13.09.18",
+      "model": "вв",
+      "isSold": false,
+      "id": 8
+    },
+    {
+      "name": "ford",
+      "date": "13.09.18",
+      "model": "mondeo",
+      "isSold": false,
+      "id": 9
+    }
+  ]
+}
